@@ -17,5 +17,5 @@ from trempy.paras.clsParas import ParasCls
 import sys
 
 np.random.seed(13)
-#simulate('simulate.trempy.ini')
+simulate('simulate.trempy.ini')
 estimate('simulate.trempy.ini')
